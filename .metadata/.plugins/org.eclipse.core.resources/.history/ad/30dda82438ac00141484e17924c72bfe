@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+from br.edu.ifes.poo2.adapter.cdp.AbstractFiltro import AbstractFiltro
+
+class FiltroAguaNatural(AbstractFiltro):
+    def __init__(self):
+    

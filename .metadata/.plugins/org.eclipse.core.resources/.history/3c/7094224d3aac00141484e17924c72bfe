@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+from br.edu.ifes.poo2.adapter.cdp.FiltroAguaNatural import FiltroAguaNatural
+from br.edu.ifes.poo2.adapter.cdp.FiltroAguaGelada import FiltroAguaGelada
+
+def main():
+    
+    filtro = FiltroAguaNatural()
+    filtro.FiltrarAgua()
+    
+    filtro = FiltroAguaGelada()
+    filtro.FiltrarAgua()
+
+if __name__ == "__main__" : main()

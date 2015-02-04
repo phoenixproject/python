@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+def main():
+    func(10, 20, 21, 45, 65, 100)
+
+def func(valor1, valor2, *args):
+    print(args)
+    
+if __name__ == "__main__" : main()

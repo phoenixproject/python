@@ -1,0 +1,21 @@
+#!/usr/bin/python3
+
+def main():
+    funcao(5)
+    funcao(3)
+    funcao2(4)
+    funcao2()
+    
+def funcao(inicio):
+    for i in range(inicio,10):
+        print(i, end = ' ')
+    print()
+    
+
+def funcao2(inicio = 6):
+    for i in range(inicio,10):
+        print(i, end = ' ')
+    print()
+
+    
+if __name__ == "__main__" : main()

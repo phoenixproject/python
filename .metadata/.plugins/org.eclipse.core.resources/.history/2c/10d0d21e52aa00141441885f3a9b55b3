@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+class Carro:
+    # Construtor da classe
+    def __init__(self, tipo ="Corsa"):
+
+def main():
+    print("ola")
+    
+    
+if __name__ == "__main__" : main()

@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+    
+class FiltroInterface():    
+    
+    def FiltrarAgua(self):        
+        print('Filtrando agua')

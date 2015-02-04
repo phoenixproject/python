@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+def main():
+    numero = 40 / 9
+    print(type(numero), numero)
+    
+    numero = round(40 / 9)
+    print(type(numero), numero)
+
+    
+if __name__ == "__main__" : main()

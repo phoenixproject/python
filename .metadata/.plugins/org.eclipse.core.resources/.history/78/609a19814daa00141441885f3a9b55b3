@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+def main():
+    print("Esse e nosso primeiro teste.")
+print("Outro print!")
+    
+# Como o main está declarado para ser executado
+# no final do programa, o seu print aparecerá
+# depois.
+if __name__ == "__main__" : main()

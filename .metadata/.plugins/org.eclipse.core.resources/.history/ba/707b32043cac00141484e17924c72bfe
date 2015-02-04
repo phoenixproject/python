@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+from br.edu.ifes.poo2.adapter.cdp import FiltroAdapter
+
+class FiltroAguaESaiGelo(FiltroAdapter):
+    def __init__(self, agua, gelo):
+        super().__init__(self, agua, gelo)

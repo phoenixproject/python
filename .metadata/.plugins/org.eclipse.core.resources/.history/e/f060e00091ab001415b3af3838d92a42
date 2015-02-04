@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+def main():
+        s = "esse e meu texto"
+        for i, c in enumerate(s):
+            print(i, c)
+    
+if __name__ == "__main__" : main()

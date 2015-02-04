@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+def main():
+    print("Ola mundo")
+    
+def func():
+    pass
+    
+if __name__ == "__main__" : main()

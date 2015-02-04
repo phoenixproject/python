@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+class AbstractFiltro(object):
+            
+    def FiltrarAgua(self):        
+        print('Filtrando agua')

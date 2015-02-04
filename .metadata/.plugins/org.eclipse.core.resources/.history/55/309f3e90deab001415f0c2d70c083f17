@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+def main():
+    x = func()
+    print(x)
+
+def func():
+    return "Ola mundo"
+    
+if __name__ == "__main__" : main()

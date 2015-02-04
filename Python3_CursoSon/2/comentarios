@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+def main(): # esta é a função principal
+    print("Esse e nosso primeiro teste.")
+print("Outro print!")
+    
+if __name__ == "__main__" : main() # executando a função principal

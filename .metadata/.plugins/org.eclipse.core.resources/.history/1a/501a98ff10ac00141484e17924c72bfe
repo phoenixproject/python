@@ -1,0 +1,3 @@
+class AbstractFiltro(object):
+
+def __init__(self):

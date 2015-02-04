@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+from br.edu.ifes.poo2.adapter.cdp.FiltroAguaNatural import FiltroAguaNatural
+
+def main():
+    
+    filtro = FiltroAguaNatural()
+    filtro.FiltrarAgua()
+
+if __name__ == "__main__" : main()

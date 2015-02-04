@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+
+def main():
+    try:        
+        for linha in ler('exemplo.txt'): print(linha.strip())
+    except IOError as e:
+        print("Arquivo nao encontrado", e)
+            
+def ler(nomearquivo):
+    arquivo = open(nomearquivo)
+    return arquivo.readlines()
+    
+if __name__ == "__main__" : main()

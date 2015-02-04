@@ -1,0 +1,23 @@
+#!/usr/bin/python3
+
+class Cachorro():
+            
+    def latir(self):
+        print("Uow, Uow...")
+        
+    def balancar(self):
+        super().balancar()
+        print("Balancou o rabo")
+        
+    @property
+    def cor(self):
+        return self._cor
+    
+    def cor(self, cor):
+        self._cor = cor
+                
+def main():
+    raffy = Cachorro()
+    raffy.latir()
+    
+if __name__ == "__main__" : main()

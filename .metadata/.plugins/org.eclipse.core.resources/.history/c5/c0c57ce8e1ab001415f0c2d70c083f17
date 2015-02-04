@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+
+class Cachorro:
+    def latir(self):
+        print("Uow, Uow...")
+        
+    def balancar(self):
+        print("Balancou o rabo")
+        
+def main():
+    raffy = Cachorro()
+    raffy.latir()
+    raffy.balancar()
+    
+if __name__ == "__main__" : main()

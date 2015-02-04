@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+from br.edu.ifes.poo2.adapter.cdp.Agua import Agua
+
+class AbstractFiltro(object):
+    def __init__(self):
+        
+    def FiltrarAgua(self, agua):
+        pass

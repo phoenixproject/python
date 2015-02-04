@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+
+def main():
+    x = func()
+    print(x)
+    for i in x: print(i, end=' ')
+
+def func():
+    # return "Ola mundo"
+    return range(20)
+    
+if __name__ == "__main__" : main()

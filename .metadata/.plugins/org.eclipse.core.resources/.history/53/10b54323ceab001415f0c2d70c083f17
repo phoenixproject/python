@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+def main():
+    try:
+        arquivo = open('Yexemplo.txt')
+    except:
+        print("Nao encontramos o arquivo")
+    else:        
+        for linha in arquivo: print(linha.strip())
+    
+if __name__ == "__main__" : main()

@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+def main():
+    func(10)
+    
+def func(valor):
+    # pass
+    print(valor)
+    
+if __name__ == "__main__" : main()

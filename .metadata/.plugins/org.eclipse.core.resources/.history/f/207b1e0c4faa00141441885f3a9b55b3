@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+def main():
+
+    x, y = 1, 2
+    
+    if x < y:
+        print("X e menor que Y")
+    
+if __name__ == "__main__" : main()

@@ -1,0 +1,50 @@
+-- VERSION_4
+-- START DISKCACHE
+D:\_BASE\_SISTEMAS\_PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\adapter\com.python.pydev.analysis\v2_indexcache
+br.edu.__init__|1423000410897|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\__init__.py
+br.edu.ifes.poo2.adapter.app.__init__|1423005060348|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\app\__init__.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaESaiGelo|1423034105439|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaESaiGelo.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaGasosa|1423036472712|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaGasosa.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaNatural|1423031865619|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaNatural.py
+br.edu.ifes.poo2.adapter.cdp.__init__|1423000410927|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\__init__.py
+br.__init__|1423000410886|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\__init__.py
+br.edu.ifes.poo2.adapter.cdp.AbstractFiltro|1423035070415|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\AbstractFiltro.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAdapter|1423034087442|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAdapter.py
+br.edu.ifes.poo2.__init__|1423000410911|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\__init__.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaGelada|1423031873372|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaGelada.py
+br.edu.ifes.poo2.adapter.cdp.AbstractFiltroPlus|1423036389214|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\AbstractFiltroPlus.py
+br.edu.ifes.poo2.adapter.cdp.FiltroInterface|1423036245082|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroInterface.py
+br.edu.ifes.poo2.adapter.__init__|1423000410922|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\__init__.py
+br.edu.ifes.__init__|1423000410905|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+6=br.edu.ifes.poo2.adapter.cdp.FiltroAguaESaiGelo
+4=br.edu.ifes.poo2.adapter.cdp.FiltroAguaGasosa
+7=br.edu.ifes.poo2.adapter.cdp.FiltroAguaNatural
+9=FiltroInterface
+5=br.edu.ifes.poo2.adapter.cdp.FiltroAguaGelada
+2=br.edu.ifes.poo2.adapter.cdp.AbstractFiltroPlus
+11=FiltroAdapter
+8=br.edu.ifes.poo2.adapter.cdp.FiltroInterface
+1=br.edu.ifes.poo2.adapter.cdp.AbstractFiltro
+3=br.edu.ifes.poo2.adapter.cdp.FiltroAdapter
+12=AbstractFiltro
+10=AbstractFiltroPlus
+-- END DICTIONARY
+-- START TREE 1
+5
+!<m|0|
+Fi|0|
+abs|2|AbstractFiltro!9@AbstractFiltroPlus!17@
+fil|6|FiltroAdapter!25@FiltroAguaGasosa!33@FiltroAguaGelada!41@FiltroAguaESaiGelo!49@FiltroAguaNatural!57@FiltroInterface!65@
+mai|0|
+-- END TREE
+-- START TREE 2
+5
+!<m|0|
+__i|0|
+aum|2|AumentarVolumeDeAgua!9&66@AumentarVolumeDeAgua!10&18@
+dim|2|DiminuirVolumeDeAgua!9&66@DiminuirVolumeDeAgua!10&18@
+fil|4|FiltrarAgua!9&66@FiltrarAgua!11&26@FiltrarAgua!10&18@FiltrarAgua!12&10@
+-- END TREE

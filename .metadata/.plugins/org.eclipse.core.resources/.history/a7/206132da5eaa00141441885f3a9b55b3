@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+
+def main():
+    dicionario = { 'um' : 1, 'dois' : 2, 'tres' : 3, 'quatro' : 4 }
+    print(dicionario)
+    
+    for k in dicionario:
+        print(k, dicionario[k])
+        
+    for k in dicionario:
+        print(k)
+    
+if __name__ == "__main__" : main()

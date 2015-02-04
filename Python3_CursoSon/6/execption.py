@@ -1,0 +1,20 @@
+#!/usr/bin/python3
+
+def main():
+    try:
+        arquivo = open('Yexemplo.txt')
+        for linha in arquivo: print(linha.strip())
+    except IOError as e:
+        print("Nao encontramos o arquivo", e)
+            
+           
+    
+    
+    # try:
+    #    arquivo = open('Yexemplo.txt')
+    # except IOError as e:
+    #    print("Nao encontramos o arquivo", e)
+    # else:        
+    #    for linha in arquivo: print(linha.strip())
+    
+if __name__ == "__main__" : main()

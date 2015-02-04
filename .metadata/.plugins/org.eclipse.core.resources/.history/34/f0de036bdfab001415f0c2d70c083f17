@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+class Cachorro:
+    def latir(self):
+        print("Uow, Uow...")
+
+def main():
+    pass
+    
+if __name__ == "__main__" : main()

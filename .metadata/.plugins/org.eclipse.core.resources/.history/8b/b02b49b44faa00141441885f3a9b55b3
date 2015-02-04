@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+
+def main():
+
+    x, y = 2, 2
+    
+    resultado = "menor que" if x < y else "maior que"
+    print(resultado)
+    
+    if x < y:
+        print("X e menor que Y")
+    elif x > y:
+        print("X e maior que Y")
+    else:
+        print("X e igual a Y")
+    
+if __name__ == "__main__" : main()

@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+def main():
+    arquivo = open("exemplo.txt")
+    for linha in arquivo: print(linha.strip())
+    
+if __name__ == "__main__" : main()

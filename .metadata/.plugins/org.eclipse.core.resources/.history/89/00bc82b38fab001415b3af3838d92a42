@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+def main():
+    arq = open('exemplo.txt')
+    for linha in arq.readline():
+        print(linha)
+    
+    
+if __name__ == "__main__" : main()

@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+def main():
+    texto = "Curso de Python"
+    print(texto)
+    
+    
+if __name__ == "__main__" : main()

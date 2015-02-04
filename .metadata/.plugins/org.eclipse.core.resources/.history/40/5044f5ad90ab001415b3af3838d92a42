@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+def main():
+        arq = open('exemplo.txt')
+        for index, linha in enumerate(arq.readlines()):    
+            print(index,linha, end='')
+    
+if __name__ == "__main__" : main()

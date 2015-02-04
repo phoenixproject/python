@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+class Carro:
+
+def main():
+    print("ola")
+    
+    
+if __name__ == "__main__" : main()

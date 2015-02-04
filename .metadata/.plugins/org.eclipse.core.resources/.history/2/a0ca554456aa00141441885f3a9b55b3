@@ -1,0 +1,22 @@
+#!/usr/bin/python3
+
+def main():
+    
+    texto = "Curso de Python"
+    print(texto)
+    
+    # Como tudo em Python 3 eh objeto, entao eh possivel chamar um metodo na string
+    texto = "{} Curso de Python".format(2)
+    print(texto)
+    
+    # No `Python 2 eh parecido com a sintaxe do C
+    numero = 2
+    texto = "%s Curso de Python" % numero
+    print(texto)
+    
+    # Como tudo em Python 3 eh objeto, entao eh possivel chamar um metodo na string
+    texto = "{} Curso \nde Python".format(2)
+    print(texto)
+    
+    
+if __name__ == "__main__" : main()

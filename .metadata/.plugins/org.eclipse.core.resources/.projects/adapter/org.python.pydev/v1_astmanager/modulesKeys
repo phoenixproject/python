@@ -1,0 +1,17 @@
+MODULES_MANAGER_V2
+br.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\__init__.py
+br.edu.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\__init__.py
+br.edu.ifes.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\__init__.py
+br.edu.ifes.poo2.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\__init__.py
+br.edu.ifes.poo2.adapter.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\__init__.py
+br.edu.ifes.poo2.adapter.app.App|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\app\App.py
+br.edu.ifes.poo2.adapter.app.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\app\__init__.py
+br.edu.ifes.poo2.adapter.cdp.AbstractFiltro|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\AbstractFiltro.py
+br.edu.ifes.poo2.adapter.cdp.AbstractFiltroPlus|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\AbstractFiltroPlus.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAdapter|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAdapter.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaESaiGelo|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaESaiGelo.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaGasosa|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaGasosa.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaGelada|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaGelada.py
+br.edu.ifes.poo2.adapter.cdp.FiltroAguaNatural|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroAguaNatural.py
+br.edu.ifes.poo2.adapter.cdp.FiltroInterface|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\FiltroInterface.py
+br.edu.ifes.poo2.adapter.cdp.__init__|D:\_BASE\_SISTEMAS\_PYTHON\adapter\br\edu\ifes\poo2\adapter\cdp\__init__.py
